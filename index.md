@@ -5,10 +5,11 @@ Technical Experience
 Software
 Filemaker Pro, Microsoft Suite (Excel, Access, Word, Powerpoint)
 
-Programing Languages
+Programming Languages
 R, Python, Markdown, Bash
 
 Work Experience
+
 Sept 2021 -  Present
 Aggregate Genius | Vancouver, BC
 Analytics Engineer
