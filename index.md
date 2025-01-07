@@ -1,91 +1,64 @@
----
-layout: cv
-title: Isaac Newtons's CV
----
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+Jasmine Lai
+github: laijasmine | (604) 802-1677
 
-<div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-</div>
+Technical Experience
+Software
+Filemaker Pro, Microsoft Suite (Excel, Access, Word, Powerpoint)
 
+Programing Languages
+R, Python, Markdown, Bash
 
-## Currently
+Work Experience
+Sept 2021 -  Present
+Aggregate Genius | Vancouver, BC
+Analytics Engineer
+- Managed a portfolio of 3 concurrent client projects and ensured deliverables were on time
+- Designed the migration of a complex application to use new API based backend over a 6 month timeline
+- Troubleshoot client questions over the 25 active R Shiny applications developed by team
 
-Standing on the shoulders of giants
+Apr 2020 - Sept 2021
+Arctic Data Center
+Projects Data Coordinator
+- Coordinating a team of 5 interns and data fellows to process dataset submissions to the Arctic Data Center
+- Developing internal R packages and contributing to open source software to streamline dataset submission workflows
+- Coordinated terabyte scale data archival projects from research projects to meet funder deadlines
+- Taught workshops on markdown and data wrangling to researchers
 
-### Specialized in
+May 2019 - Apr 2020
+UBC Herbarium - Beaty Biodiversity Museum | UBC, Vancouver, BC
+Herbarium Research Assistant / Technician
+- Managed the validation and integration of data generated from a citizen science platform
+- Mentored undergraduate student projects on visualizing collections data
+- Fulfilled data and loan requests to support research by students, researchers and the public
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Jul 2018 – Apr 2020
+Martone Lab | UBC, Vancouver, BC
+Molecular Biodiversity Lab Assistant
+- Used Python scripts to manage sequence files to be submitted to BOLD and Genbank
+- DNA extraction and PCR of seaweed samples
+- Coordinated the samples from multiple researchers to be submitted for Sanger sequencing
+- Utilized the R dplyr library to select data from lab spreadsheets to improve data submission workflow to GenBank and BOLD databases
 
+2017WT2, 2018WT1
+UBC Computer Science | Vancouver, BC
+Undergraduate Teaching Assistant, CPSC 301
+- Helped students debug their Python and understand computer science concepts during weekly labs
+- Taught labs of 30 students in debugging their Python code and understanding fundamental computer science concepts
+- Utilized Bash to improve the speed of marking of 200 student lab assignments
 
-### Research interests
+Volunteer Experience
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Mar 2019, Jun 2023
+Introduction to R workshop
+Instructor
+- Taught classes of 30 UBC members how to visualize data in ggplot
 
+2019- Present
+R Ladies - Vancouver Chapter Organizing team
 
-## Education
+Education
 
-`1654-1660`
-__The King's School, Grantham.__
+2013 - 2019
+University of British Columbia (UBC)
 
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
-
-
+Bachelor's of Science - Biology
