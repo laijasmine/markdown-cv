@@ -1,3 +1,8 @@
+---
+layout: cv
+github: laijasmine
+title: JLai Resume
+---
 Jasmine Lai
 github: laijasmine | (604) 802-1677
 
