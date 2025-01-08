@@ -1,70 +1,72 @@
 ---
 layout: cv
 github: laijasmine
-title: JLai Resume
+title: JLai_Resume
 ---
-Jasmine Lai
-github: laijasmine | (604) 802-1677
+# Jasmine Lai 
+github: laijasmine | (604) 802-1677 | <a href="jsminelai@gmail.com">jsminelai@gmail.com</a>
 
-Technical Experience
-Software
-Filemaker Pro, Microsoft Suite (Excel, Access, Word, Powerpoint)
+## Work Experience
+`Sept 2021 -  Present`
+__Aggregate Genius__ | Vancouver, BC
 
-Programming Languages
-R, Python, Markdown, Bash
-
-Work Experience
-
-Sept 2021 -  Present
-Aggregate Genius | Vancouver, BC
-Analytics Engineer
-- Managed a portfolio of 3 concurrent client projects and ensured deliverables were on time
+_Analytics Engineer_
+- Managed a portfolio of 3 concurrent client projects to ensure on time delivery of features
 - Designed the migration of a complex application to use new API based backend over a 6 month timeline
 - Troubleshoot client questions over the 25 active R Shiny applications developed by team
 
-Apr 2020 - Sept 2021
-Arctic Data Center
-Projects Data Coordinator
+`Apr 2020 - Sept 2021`
+__NCEAS Arctic Data Center__ | Santa Barbara, CA
+
+_Projects Data Coordinator_
 - Coordinating a team of 5 interns and data fellows to process dataset submissions to the Arctic Data Center
 - Developing internal R packages and contributing to open source software to streamline dataset submission workflows
 - Coordinated terabyte scale data archival projects from research projects to meet funder deadlines
-- Taught workshops on markdown and data wrangling to researchers
 
-May 2019 - Apr 2020
-UBC Herbarium - Beaty Biodiversity Museum | UBC, Vancouver, BC
-Herbarium Research Assistant / Technician
-- Managed the validation and integration of data generated from a citizen science platform
-- Mentored undergraduate student projects on visualizing collections data
-- Fulfilled data and loan requests to support research by students, researchers and the public
+`Jul 2018 – Mar 2020`
+__Martone Lab UBC__ | Vancouver, BC
 
-Jul 2018 – Apr 2020
-Martone Lab | UBC, Vancouver, BC
-Molecular Biodiversity Lab Assistant
+_Molecular Biodiversity Lab Assistant_
 - Used Python scripts to manage sequence files to be submitted to BOLD and Genbank
 - DNA extraction and PCR of seaweed samples
 - Coordinated the samples from multiple researchers to be submitted for Sanger sequencing
-- Utilized the R dplyr library to select data from lab spreadsheets to improve data submission workflow to GenBank and BOLD databases
+- Utilized the R dplyr package to select data from lab spreadsheets to improve data submission workflow to GenBank and BOLD databases
 
-2017WT2, 2018WT1
-UBC Computer Science | Vancouver, BC
-Undergraduate Teaching Assistant, CPSC 301
-- Helped students debug their Python and understand computer science concepts during weekly labs
+`2017WT2, 2018WT1`
+__UBC Computer Science__ | Vancouver, BC
+
+_Undergraduate Teaching Assistant, CPSC 301_
+- Guided students on how to debug their Python and understand computer science concepts during weekly labs
 - Taught labs of 30 students in debugging their Python code and understanding fundamental computer science concepts
-- Utilized Bash to improve the speed of marking of 200 student lab assignments
+- Utilized Bash to improve the speed of marking of 200 student lab assignments 
 
-Volunteer Experience
+<div style="page-break-after: always;"></div>
 
-Mar 2019, Jun 2023
-Introduction to R workshop
-Instructor
-- Taught classes of 30 UBC members how to visualize data in ggplot
+## Volunteer Experience
 
-2019- Present
-R Ladies - Vancouver Chapter Organizing team
+`Mar 2019, Mar 2020, Jun 2024`
+__Beginner R Workshop Instructor__
+_instructor_
+- 5 hour workshop on ggplot and dplyr for 30 participants
+- https://github.com/travis-m-blimkie/introrworkshop
 
-Education
+`2019- Present`
+__R Ladies - Vancouver Chapter Organizer__
 
-2013 - 2019
-University of British Columbia (UBC)
+## Technical Experience
+__Software__
+Filemaker Pro, Microsoft Suite (Excel,Access,Word,Powerpoint), RStudio
+
+__Programing Languages__
+R, Python, Markdown, Bash
+
+## Education
+`2013 - 2019`
+__University of British Columbia (UBC)__
 
 Bachelor's of Science - Biology
+
+<!-- ### Footer
+
+Last updated: July 2021 -->
+
