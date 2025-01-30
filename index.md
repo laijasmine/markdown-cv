@@ -11,9 +11,9 @@ github: laijasmine | (604) 802-1677 | <a href="jsminelai@gmail.com">jsminelai@gm
 __Aggregate Genius__ | Vancouver, BC
 
 _Analytics Engineer_
-- Managed a portfolio of 3 concurrent client projects to ensure on time delivery of features
+- Managed a portfolio of 3 concurrent projects to ensure on time delivery of features
 - Designed the migration of a complex application to use new API based backend over a 6 month timeline
-- Troubleshoot client questions over the 25 active R Shiny applications developed by team
+- Troubleshoot client questions over 25 active R Shiny applications developed by team
 
 `Apr 2020 - Sept 2021`
 __NCEAS Arctic Data Center__ | Santa Barbara, CA
